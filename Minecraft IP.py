@@ -1,3 +1,5 @@
+#Automatically copies the ip with the minecraft default port to the clipboard 
+
 import requests
 import pyperclip
 
